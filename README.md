@@ -27,6 +27,7 @@ Publish the website in the given URL.
 
 # PROGRAM:
 
+```
 home.html
 
 <html>
@@ -506,7 +507,7 @@ a{
 h2,h3,h4{
     font-size: 27px;
 }
-
+```
 # OUTPUT:
 <img width="1904" height="1031" alt="Screenshot 2025-12-21 164149" src="https://github.com/user-attachments/assets/e02db8bf-be0b-48d6-8d20-d3ce46dce23e" />
 <img width="1899" height="1017" alt="Screenshot 2025-12-21 164300" src="https://github.com/user-attachments/assets/af87d058-c12b-4d74-8299-ceea7f253233" />
